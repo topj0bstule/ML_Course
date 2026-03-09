@@ -17,6 +17,9 @@ env/
 .ipynb_checkpoints/
 */.ipynb_checkpoints/
 
+# Microsoft Power Point
+.pptx
+
 # OS
 .DS_Store
 Thumbs.db
